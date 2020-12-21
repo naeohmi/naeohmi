@@ -6,9 +6,9 @@ Naomi a Software Development Engineer at Adobe on the Globalization, Core Servic
 
 ## 🎉 Let's connect online:
 
-- naeohmi.com
-- linkedin.com/in/naeohmi
-- twitter.com/nae_ohmi
+- [naeohmi.com](https://naeohmi.com)
+- [linkedin.com/in/naeohmi](https://linkedin.com/in/naeohmi)
+- [twitter.com/nae_ohmi](https://twitter.com/nae_ohmi)
 
 
 # 🥂 Cheers!
