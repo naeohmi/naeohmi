@@ -1,16 +1,14 @@
-### Hi there 👋
+# 🌎🌏🌍 Hello world, thanks for stopping by!
 
-<!--
-**naeohmi/naeohmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me:
 
-Here are some ideas to get you started:
+Naomi a Software Development Engineer at Adobe on the Globalization, Core Services team where she leads internationalization and localization for Creative Cloud products, currently: Adobe Fonts, Adobe Portfolio, and Behance.  She speaks regularly at international software engineering conferences, contributes to open source, and volunteers teaching girls to code. Before coding full time, Naomi worked as a teacher across Asia and West Africa. She enjoys weekends outside with her dog - hiking, camping, and riding bikes. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎉 Let's connect online:
+
+- naeohmi.com
+- linkedin.com/in/naeohmi
+- twitter.com/nae_ohmi
+
+
+# 🥂 Cheers!
