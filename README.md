@@ -2,7 +2,7 @@
 
 ## 💻 About me:
 
-Naomi a Software Development Engineer at Adobe on the Globalization, Core Services team where she leads internationalization and localization for Creative Cloud products.  She speaks regularly at international software engineering conferences, contributes to open source, and volunteers teaching girls to code. Before coding full time, Naomi worked as a teacher across Asia and West Africa. She enjoys weekends outside with her dog - hiking, camping, and riding bikes. 
+Naomi works as a Software Development Engineer at Adobe on the Globalization, Core Services team where she leads internationalization and localization for Adobe products.  She speaks regularly at international software engineering conferences, contributes to open source, and volunteers teaching girls to code. Before coding full time, Naomi worked as a teacher across Asia and West Africa. She enjoys weekends outside with her dog - backcountry skiing, climbing, and mountaineering.
 
 ## 🎉 Let's connect:
 
