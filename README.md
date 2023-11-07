@@ -6,7 +6,7 @@ Naomi works as a Software Development Engineer at Adobe on the Globalization, Co
 
 ## 🎉 Let's connect:
 
-- [naeohmi.com](https://naeohmi.com)
+- [naeohmi.github.io/me](https://naeohmi.github.io/me/)
 - [linkedin.com/in/naeohmi](https://linkedin.com/in/naeohmi)
 - [twitter.com/nae_ohmi](https://twitter.com/nae_ohmi)
 
